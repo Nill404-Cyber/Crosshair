@@ -16,7 +16,7 @@ class Crosshair:
         self.master.bind("<F3>", self.lock_position)
         self.locked = False
     def draw_crosshair(self):
-        self.canvas.create_oval(190, 190, 200, 200, fill='GREEN')  
+        self.canvas.create_oval(190, 190, 200, 200, fill='red')  
     def start_move(self, event):
         if not self.locked:
             self.x = event.x
