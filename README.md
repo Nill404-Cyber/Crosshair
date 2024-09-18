@@ -1,8 +1,8 @@
-# Crosshair for Snipers - Free Fire (Full Safe)
+## Crosshair for Snipers - Free Fire (Full Safe)
+
+# The tool is **safe** to use, as it doesn't interact directly with the game files, nor does it inject any code into the game. It simply acts as a graphical overlay that helps improve aiming.
 
 This is a simple, customizable crosshair application designed for use with **Free Fire on PC**, specifically to help **snipers** aim with precision. The app is built using `Tkinter` and features a transparent window that overlays the game screen, with a green crosshair at the center. 
-
-The tool is **safe** to use, as it doesn't interact directly with the game files, nor does it inject any code into the game. It simply acts as a graphical overlay that helps improve aiming.
 
 ## Features
 
